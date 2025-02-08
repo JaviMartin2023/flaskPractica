@@ -13,6 +13,8 @@ Este documento detalla las comprobaciones realizadas para verificar el funcionam
 
 Este documento describe el proceso de verificación del despliegue de una aplicación Flask utilizando Gunicorn y Nginx, garantizando que cada componente esté configurado y funcionando correctamente.
 
+En el repositorio se encuentran todos los archivos de configuración para ambas aplicaciones y además un provision.sh en el que están todos los comando y pasos explicados, por lo que aquí solo se muestran las comprobaciones finales de que las apps funcionan.
+
 ## Comprobaciones
 
 ### Verificación de la Aplicación Flask
